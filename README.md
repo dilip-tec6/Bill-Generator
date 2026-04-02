@@ -35,11 +35,7 @@ A simple Java-based project that calculates the total bill of a pizza based on s
 ## ▶️ How to Run
 
 1. Compile the program:
-
-2. 
 2. Run the program:
-
-3. 
 ---
 
 ## 💡 Example Usage
