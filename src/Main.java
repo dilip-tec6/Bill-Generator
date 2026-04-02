@@ -1,10 +1,10 @@
 public class Main {
 
     public static void main(String[] args) {
-        Pizza basePizza = new Pizza(true);
-        basePizza.addExtraToppings();
-        basePizza.addExtraCheese();
-        basePizza.takeAway();
-        basePizza.getBill();
+        Burger baseBurger = new Burger(true);
+        baseBurger.addExtraToppings();
+        baseBurger.takeAway();
+        baseBurger.getBill();
+        baseBurger.addExtraCheese();
     }
 }

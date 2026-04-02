@@ -1,4 +1,4 @@
-public class Pizza {
+public class Burger {
 
     private int price;
 
@@ -8,7 +8,7 @@ public class Pizza {
     private  int extraToppingsPrice = 150;
     private  int backPackPrice = 20;
 
-    public Pizza(Boolean veg) {
+    public Burger(Boolean veg) {
         this.veg = veg;
         if(this.veg){
             this.price = 300;
